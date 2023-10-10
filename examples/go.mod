@@ -1,6 +1,6 @@
 module examples
 
-go 1.17
+go 1.18
 
 require (
 	github.com/charmbracelet/bubbles v0.16.2-0.20230821152602-eda891258c02
